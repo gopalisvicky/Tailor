@@ -1,6 +1,6 @@
-# fltr
+# Tailor Measurement App
 
-A new Flutter application.
+Basic Tailor Measurement App to store customer data.
 
 ## Getting Started
 
