@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370007390179",
+    "firebase_url": "https://fltr-b98ba.firebaseio.com",
+    "project_id": "fltr-b98ba",
+    "storage_bucket": "fltr-b98ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370007390179:android:2047663a516df29d77d2d6",
+        "android_client_info": {
+          "package_name": "com.example.fltr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370007390179-56d0e0j16thtihfa8ba1v100l67c2mn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDela5uZDWxQAUzAKHEiM17j756P8Xwrg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370007390179-56d0e0j16thtihfa8ba1v100l67c2mn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
